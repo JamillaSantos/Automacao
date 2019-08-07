@@ -1,5 +1,0 @@
-package br.ce.milladahora.appium.core;
-
-public class DriverFactory {
-
-}
